@@ -20,7 +20,7 @@ Colaboro en el desarrollo y mantenimiento de sistemas. He participado en integra
 - [Tarjeta de producto](https://github.com/leonardomorales-oss/desafio-tarjeta-producto) — componente responsive con modal.
 - [Flipbook Revistas CUH](https://github.com/leonardomorales-oss/Flipbook-Revistas-CUH) — visor digital con React y react-pdf.
 - [Chatbot de preguntas frecuentes](https://github.com/leonardomorales-oss/chatbot-preguntas-frecuentes) — respuestas predefinidas en JavaScript.
-- Autenticación Auth0 con React y API Express — proyecto en revisión; agregaré el enlace cuando el repositorio ya no contenga secretos expuestos y cualquier contraseña real se haya rotado.
+- Autenticación Auth0 con React y API Express — proyecto en revisión; agregaré el enlace cuando el repositorio deje de exponer secretos y cualquier contraseña real se haya rotado.
 
 ### Biblioteca Musical
 - [Accesibilidad y página de sugerencias](https://github.com/leonardomorales-oss/biblioteca-musical) — formulario e imágenes accesibles.
@@ -33,6 +33,7 @@ Colaboro en el desarrollo y mantenimiento de sistemas. He participado en integra
 - [Proyecto final](https://github.com/leonardomorales-oss/biblioteca-musical-proyecto-final) — búsqueda, destacados, detalle y biblioteca personal.
 
 ### Ejercicios y fundamentos
+- [Avengers Curso](https://github.com/leonardomorales-oss/avengers-curso) — práctica de Git y GitHub con Markdown y una versión web.
 - [Línea del tiempo CUH](https://github.com/leonardomorales-oss/Linea-del-tiempo-estatica-CUH) — hitos con HTML, CSS y JavaScript.
 - [Práctica de TypeScript](https://github.com/leonardomorales-oss/practica-typescript) — función tipada para calcular edad.
 - [Práctica de Jest](https://github.com/leonardomorales-oss/practica-jest) — pruebas unitarias.
