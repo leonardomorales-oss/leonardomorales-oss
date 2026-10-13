@@ -20,7 +20,7 @@ Colaboro en el desarrollo y mantenimiento de sistemas. He participado en integra
 - [Tarjeta de producto](https://github.com/leonardomorales-oss/desafio-tarjeta-producto) — componente responsive con modal.
 - [Flipbook Revistas CUH](https://github.com/leonardomorales-oss/Flipbook-Revistas-CUH) — visor digital con React y react-pdf.
 - [Chatbot de preguntas frecuentes](https://github.com/leonardomorales-oss/chatbot-preguntas-frecuentes) — respuestas predefinidas en JavaScript.
-- Autenticación Auth0 con React y API Express — proyecto en revisión; agregaré el enlace cuando el repositorio deje de exponer secretos y cualquier contraseña real se haya rotado.
+- Prueba de autenticación con Auth0, React y API Express (proyecto de práctica).
 
 ### Biblioteca Musical
 - [Accesibilidad y página de sugerencias](https://github.com/leonardomorales-oss/biblioteca-musical) — formulario e imágenes accesibles.
