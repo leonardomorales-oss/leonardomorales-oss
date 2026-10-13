@@ -1,4 +1,4 @@
-# ¡Hola! Soy Leonidas Morales Reyes
+# ¡Hola! Soy Leonardo Morales Reyes
 
 **Ingeniero en Sistemas | Desarrollo Full Stack con enfoque en backend**  
 Pachuca de Soto, Hidalgo, México
